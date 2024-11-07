@@ -1,3 +1,5 @@
+#Note for code Explore Master Branch
+
 Multi-Threaded Pac-Man Game in C using OpenGL
 Overview
 
